@@ -1,4 +1,5 @@
 # Teclast-M16-Refined_Kernel_GSI
+# Backported from Alldocube M8. TEST
 
 Improved kernel for GSI
 
